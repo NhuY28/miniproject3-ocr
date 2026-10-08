@@ -95,9 +95,9 @@ Home
 
 ## Links
 
-- **GitHub:** `<https://github.com/NhuY28/miniproject3-ocr>`
-- **APK:** `<https://drive.google.com/file/d/1__h3UDx0EckeAtngE5vu9Gn5mIthz-5Z/view>`
-- **Demo Video:** `<https://drive.google.com/file/d/1-uUgyK0MEknHg5RJtyybgViN8TyuAmYx/view>`
+- **GitHub:** https://github.com/NhuY28/miniproject3-ocr
+- **APK:** https://drive.google.com/file/d/1__h3UDx0EckeAtngE5vu9Gn5mIthz-5Z/view
+- **Demo Video:** https://drive.google.com/file/d/1-uUgyK0MEknHg5RJtyybgViN8TyuAmYx/view
 
 ## Author
 
